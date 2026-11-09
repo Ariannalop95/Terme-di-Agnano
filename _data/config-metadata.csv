@@ -1,8 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Data del documento,
 description,Description,
+sigla,Segnatura archivistica,,
+periodo_serie,Periodo della serie,true,
 subject,Subjects,true
 location,Location
 latitude,Latitude
