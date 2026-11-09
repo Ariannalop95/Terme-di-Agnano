@@ -1,4 +1,4 @@
-objectid,filename,title,format,codice_nucleo,edificio,sigla,description,periodo_serie,tipologia,date
+objectid,filename,title,format,codice_nucleo,edificio,sigla,description,periodo_serie,tipologia,date,latitude,longitude
 agn-02-001,agn-02-001.jpg,Stufe di San Germano – Veduta esterna,image/jpeg,02,Stufe di San Germano,IF_Ss07a-d-f,Stufe di San Germano (esterno),1870–1909,Fotografia,
 agn-02-002,agn-02-002.jpg,Stufe di San Germano – Veduta interna,image/jpeg,02,Stufe di San Germano,IF_Ss02a / IF_Ss04a,Stufe di San Germano (interno),1870–1909,Fotografia,
 agn-02-003,agn-02-003.jpg,"Bagni di seconda classe e Stufe di San Germano, planimetria generale",image/jpeg,02,Stufe di San Germano,II D_SS01A (04 02),"Bagni di seconda classe e Stufe di San Germano, planimetria generale. Grafite su supporto cartaceo 77,66 x 71,96 cm",1910–1919,Disegno,
