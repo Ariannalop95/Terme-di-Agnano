@@ -1,17 +1,17 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Titolo,
 creator,Creator,
 date,Data del documento,
-description,Description,
+description,Descrizione,
 sigla,Segnatura archivistica,,
 periodo_serie,Periodo della serie,true,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+latitude,Latitudine
+longitude,Longitudine
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Tipo,
+format,Formato,
+rights,Diritti,
 rightsstatement,Rights Statement,,true
